@@ -6,3 +6,6 @@
 # Hrvatska
 
 [Učinci pandemije bolesti COVID-19 na društveno-ekonomske pokazatelje [Stanovništvo]](https://www.dzs.hr/Hrv/Covid-19/stanovnistvo-umrli.html)
+
+TODO: napraviti grafove iz podataka:
+https://www.hzjz.hr/cat/periodicne-publikacije/
